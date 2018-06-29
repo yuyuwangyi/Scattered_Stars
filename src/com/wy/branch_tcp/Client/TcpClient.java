@@ -1,4 +1,4 @@
-package branch_tcp.Client;
+package com.wy.branch_tcp.Client;
 
 import java.io.*;
 import java.net.InetAddress;
